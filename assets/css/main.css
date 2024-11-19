@@ -1,0 +1,100 @@
+html, body {
+    height: 100%;
+}
+body{
+    min-width: 320px;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    background-color: #1D2F30;
+    
+}
+.numder{
+    margin-top: -20vh;
+}
+.knop1{
+    background-color: #4A614D;
+    color: white;
+    margin-top: -14vw;
+    margin-left: -3vw;
+    font-size: 1vw;
+}
+
+
+
+
+
+
+
+
+
+.ddiv7 {
+    grid-column-start: 4;
+    grid-row-start: 2;
+}
+
+.ddiv8 {
+    grid-column-start: 3;
+    grid-row-start: 2;
+}
+
+.ddiv9 {
+    grid-column-start: 2;
+    grid-row-start: 2;
+}
+
+.ddiv10 {
+    grid-column-start: 1;
+    grid-row-start: 2;
+}
+        
+
+
+
+
+
+
+.loo{
+    margin-left: 24.5%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.text1{
+    text-align: center;
+}
+
+
+.tete{
+    text-align: center;
+}
+
+.okno1{
+    margin-top: 3%;
+    
+
+}
+
+
+.div4 {
+    grid-row-start: 2;
+}
+
+.div5 {
+    grid-row-start: 2;
+}
+
+.div6 {
+    grid-row-start: 2;
+}
+         
+
+
+
+
+
+
+.lala{
+    
+    margin-top: 10%;
+}
+
+
