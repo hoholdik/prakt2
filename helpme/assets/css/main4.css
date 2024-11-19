@@ -1,0 +1,50 @@
+
+
+body{
+    min-width: 320px;
+    font-family: "Montserrat", sans-serif;
+    background-color: #1D2F30;
+      
+}
+.lala{
+    
+    margin-top: 10%;
+}
+
+
+.tex{
+    margin-top: 4%;
+}
+.fofo{
+    background-color: #F8F9FA;
+}
+.parent {
+    margin-top: 10%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 8px;
+}
+    
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #444;
+    width: 100%;
+  }
+
+.div4 {
+    grid-row-start: 2;
+}
+
+.div5 {
+    grid-row-start: 2;
+}
+
+.div6 {
+    grid-row-start: 2;
+}
+         
+
